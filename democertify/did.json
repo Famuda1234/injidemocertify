@@ -6,7 +6,7 @@
   "id": "did:web:famuda1234.github.io:injicertifydemo:democertify",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6Mkv2XPj6d3hZTXjx9Pz4oCaAovU81jyq5zMvLcWF646m5C",
+      "publicKeyMultibase": "z6MkwQwgkMyyZq7uUKcfJPmgi5CwFNKgfLeUuo4TXBF4qVco",
       "controller": "did:web:famuda1234.github.io:injicertifydemo:democertify",
       "id": "did:web:famuda1234.github.io:injicertifydemo:democertify#key-0",
       "type": "Ed25519VerificationKey2020",
