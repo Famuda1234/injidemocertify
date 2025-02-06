@@ -1,14 +1,14 @@
 {
   "assertionMethod": [
-    "did:web:vharsh.github.io:DID:demo#key-0"
+    "did:web:famuda1234.github.io:injicertifydemo:democertify#key-0"
   ],
   "service": [],
-  "id": "did:web:vharsh.github.io:DID:demo",
+  "id": "did:web:famuda1234.github.io:injicertifydemo:democertify",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6Mkt9oeDXrj9ijzhjDdCQUUtjx9CQDbkAB7DN5GM9gTAbF4",
-      "controller": "did:web:vharsh.github.io:DID:demo",
-      "id": "did:web:vharsh.github.io:DID:demo#key-0",
+      "publicKeyMultibase": "z6Mkv2XPj6d3hZTXjx9Pz4oCaAovU81jyq5zMvLcWF646m5C",
+      "controller": "did:web:famuda1234.github.io:injicertifydemo:democertify",
+      "id": "did:web:famuda1234.github.io:injicertifydemo:democertify#key-0",
       "type": "Ed25519VerificationKey2020",
       "@context": "https://w3id.org/security/suites/ed25519-2020/v1"
     }
@@ -18,6 +18,6 @@
   ],
   "alsoKnownAs": [],
   "authentication": [
-    "did:web:vharsh.github.io:DID:demo#key-0"
+    "did:web:famuda1234.github.io:injicertifydemo:democertify#key-0"
   ]
 }
