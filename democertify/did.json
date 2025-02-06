@@ -1,0 +1,23 @@
+{
+  "assertionMethod": [
+    "did:web:vharsh.github.io:DID:demo#key-0"
+  ],
+  "service": [],
+  "id": "did:web:vharsh.github.io:DID:demo",
+  "verificationMethod": [
+    {
+      "publicKeyMultibase": "z6Mkt9oeDXrj9ijzhjDdCQUUtjx9CQDbkAB7DN5GM9gTAbF4",
+      "controller": "did:web:vharsh.github.io:DID:demo",
+      "id": "did:web:vharsh.github.io:DID:demo#key-0",
+      "type": "Ed25519VerificationKey2020",
+      "@context": "https://w3id.org/security/suites/ed25519-2020/v1"
+    }
+  ],
+  "@context": [
+    "https://www.w3.org/ns/did/v1"
+  ],
+  "alsoKnownAs": [],
+  "authentication": [
+    "did:web:vharsh.github.io:DID:demo#key-0"
+  ]
+}
